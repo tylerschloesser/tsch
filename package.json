@@ -1,3 +1,6 @@
 {
-  "name": "@tsch/root"
+  "name": "@tsch/root",
+  "workspaces": [
+    "packages/cdk"
+  ]
 }
